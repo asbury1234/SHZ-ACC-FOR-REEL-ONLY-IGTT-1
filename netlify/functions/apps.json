@@ -2,6 +2,6 @@
   "appId": "780860838297018",
   "appSecret": "0465c687a484c8b81395bd16731a2cc1",
   "redirectUri": "https://igtt1.netlify.app/.netlify/functions/callback",
-   "scope": "pages_show_list,pages_read_engagement,pages_manage_posts,pages_read_user_content,pages_manage_engagement,read_insights,pages_manage_metadata"
+   "scope": "public_profile,email,pages_show_list,pages_read_engagement,pages_manage_posts,pages_read_user_content,pages_manage_engagement,read_insights,pages_manage_metadata"
 
 }
